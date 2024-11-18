@@ -31,6 +31,10 @@ Column (modifier = Modifier.fillMaxSize()){
         isinya =  mhs.email
     )
     TampilData(
+        judul = "No Handphone",
+        isinya =  mhs.noHp
+    )
+    TampilData(
         judul = "Alamat",
         isinya =  mhs.alamat
     )
